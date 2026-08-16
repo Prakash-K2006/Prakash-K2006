@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Prakash.K</h1>
-<h3 align="center">
-Full Stack Web Developer | Passionate Problem Solver | Building
-Modern Web Experiences
-</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Python+%7C+Cloud+%7C+DevOps;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?
@@ -16,169 +16,123 @@ wesome!" />
 
 ## About Me
 
-- I'm a **Full Stack Web Developer** passionate about creating
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud
-Technologies**.
+Hi! 👋 I'm a Computer Science Engineering student passionate about technology and software development.
 
-- Open to collaborating on exciting web development and open-
-source projects.
+* 💻 Currently learning **Python** and improving my programming skills
+* ☁️ Interested in **Cloud Computing & DevOps**
+* 🚀 Building projects to gain real-world development experience
+* 🧠 Interested in **AI/ML and automation**
+* 📚 Preparing for **placements and technical interviews**
+* 🔧 I enjoy learning new technologies and turning ideas into projects
 
-- Always exploring modern technologies and best development
-practices.
-- Fun Fact: **I love solving coding challenges and building
-useful applications.**
+**Goal:** Become a skilled software professional and keep learning every day. 🚀
+
 
 ---
 
 ## Connect With Me
-<p align="left">
-<a href="[LinkedIn URL]">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+* 💼 LinkedIn: [https://www.linkedin.com/in/prakashk-cse/](https://www.linkedin.com/in/prakashk-cse/)
+* 🐙 GitHub: [https://github.com/Prakash-K2006](https://github.com/Prakash-K2006)
+* 📧 Email: prakash2006k2@gmail.com
 
-</a>
-<a href="[Portfolio URL]">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
-
-</a>
-<a href="mailto:[Email Address]">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
-
-</a>
-</p>
+Let's connect, learn, and build together! 🚀
 
 ---
 
 # Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>
 
----
 
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and
-experience.
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-Live Demo: [Portfolio URL]
-Repository: [GitHub Repository]
+### 💻 Programming
 
----
+* Python
+* HTML
+* CSS
 
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+### ☁️ Cloud & DevOps
 
----
+* AWS
+* Linux
+* Docker
+* Terraform
+* Git & GitHub
 
-## Task Management App
-A productivity application to organize daily tasks with
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+### 🗄️ Database
 
----
+* SQLite
+* MySQL
 
-# GitHub Stats
+### 🛠️ Tools
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>
-
----
-
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
-
----
-
-# GitHub Trophies
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?
-
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
+* VS Code
+* Git
+* GitHub
 
 </p>
 
 ---
 
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
+# 🚀 Featured Project
+
+## Computer Lab Equipment AI Predictive Maintenance System
+
+🔨 **Currently Building**
+
+A final-year CSE project focused on using machine learning and system telemetry to predict potential computer hardware failures and provide maintenance recommendations.
+
+### 🛠️ Tech Stack
+
+* Python 🐍
+* Machine Learning 🤖
+* FastAPI ⚡
+* React ⚛️
+* SQLite 🗄️
+* Git & GitHub
+
+### 🎯 Planned Features
+
+* PC health monitoring
+* CPU, RAM & disk monitoring
+* Failure-risk prediction
+* Repair / Monitor / Replace recommendations
+* System health dashboard
+
+**Status:** 🚧 Work in Progress
 
 ---
 
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
+
+# 📚 Currently Learning
+
+* 🐍 **Python** — Programming & Problem Solving
+* 🧠 **Data Structures & Algorithms**
+* ☁️ **AWS** — Cloud Fundamentals
+* 🐧 **Linux** — Command Line & System Administration
+* 🐳 **Docker** — Containerization
+* 🔧 **Terraform** — Infrastructure as Code
+* 🌐 **Networking** — Fundamentals
+* 💼 **Aptitude** — Placement Preparation
+
+🚀 **Learning every day. Building projects. Preparing for my career in Cloud & DevOps.**
 
 ---
 
-# Goals for 2025
+# 🎯 Goals for 2026
 
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+* 💻 Master Software Development
+* 🐍 Strengthen Python & DSA
+* ☁️ Master Cloud & DevOps
+* 🤖 Explore AI/ML
+* 🚀 Build Real-World Projects
+* 🌍 Contribute to Open Source
+* 💼 Secure a Software Engineering Role
 
 ---
 
 # Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." –
-Cory House
-
+> **“Dream big. Work hard. Stay consistent.” 🚀**
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
-</p>
-
----
 
 <h3 align="center">
 Thanks for visiting my profile!
