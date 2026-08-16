@@ -1,20 +1,12 @@
 <h1 align="center">Hi , I'm Prakash.K</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Python+%7C+Cloud+%7C+DevOps;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+%7C+Cloud+%7C+DevOps;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 Hi! 👋 I'm a Computer Science Engineering student passionate about technology and software development.
 
@@ -30,7 +22,7 @@ Hi! 👋 I'm a Computer Science Engineering student passionate about technology 
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/prakashk-cse/](https://www.linkedin.com/in/prakashk-cse/)
 * 🐙 GitHub: [https://github.com/Prakash-K2006](https://github.com/Prakash-K2006)
@@ -40,7 +32,7 @@ Let's connect, learn, and build together! 🚀
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 
 ### 💻 Programming
@@ -129,15 +121,14 @@ A final-year CSE project focused on using machine learning and system telemetry 
 
 ---
 
-# Favorite Quote
+# 💬 Favorite Quote
 > **“Dream big. Work hard. Stay consistent.” 🚀**
 ---
 
 
 <h3 align="center">
-Thanks for visiting my profile!
+Thank you for visiting my GitHub profile!
 </h3>
 <p align="center">
-If you like my work, consider giving a to my repositories and
-connecting with me.
+⭐ Feel free to explore my repositories and connect with me.
 </p>
